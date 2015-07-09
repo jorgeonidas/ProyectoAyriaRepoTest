@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piso
+  - Jugador
+  - Enemigo
+  - HitZone
+  - caidaMortal
+  - checkPoint
+  - SpawnManager
+  - SpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Jugador
+  - Enemigo
+  - Jugador 1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1452196417
+    locked: 0
+  - name: player
+    uniqueID: 1049676549
+    locked: 0
+  - name: foreground
+    uniqueID: 1012774823
+    locked: 0
